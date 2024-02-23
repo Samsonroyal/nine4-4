@@ -25,7 +25,7 @@ export default function Header() {
       <div className="grotesk mt-6 mb-16 flex items-center justify-between py-4 px-4 sm:mx-0 sm:mb-20 sm:px-0 md:px-6">
         <div className="mt-4 inline-block pb-4 pl-8">
           <a href="/" className="align-middle text-3xl font-bold text-black">
-            NINE4
+            SQWEYA
           </a>
           <div className="hidden pl-14 align-middle xl:inline-block">
             <a href="/" className="pr-12 text-xl text-black">

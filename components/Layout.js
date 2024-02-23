@@ -8,7 +8,7 @@ export default function Main() {
         <div className="max-w-8xl mx-auto inline-block items-center p-3 pt-0 lg:flex lg:flex-wrap lg:pt-4">
           <div className="lg:w-3/6">
             <h2 className="max-w-xl lg:text-[4.2em] text-3xl font-bold leading-none text-black inline-block">
-              Vel quis feugiat pharetra diam.
+              We obsess about high standards.
             </h2>
 
             <p className="mt-6 max-w-2xl text-xl font-semibold text-[#404040]">
@@ -29,7 +29,7 @@ export default function Main() {
             <div className="mx-auto px-5 py-24 lg:px-24">
               <div className="my-10 flex w-full flex-col text-center">
                 <h2 className="mb-5 text-2xl font-bold text-black lg:text-3xl">
-                  In ullamcorper magna nunc, non molestie augue feugiat eget.
+                  We happen to have people who believe in what we see
                 </h2>
               </div>
               <div
@@ -113,10 +113,10 @@ export default function Main() {
             >
               <div className="mr-0 mb-6 w-full py-4 text-center lg:w-2/3">
                 <h2 className="mb-4 text-4xl font-bold sm:text-5xl">
-                  Sem enim cursus orci at.
+                  Augment your customer support staff's potential
                 </h2>
                 <p className="mb-4 text-lg leading-relaxed">
-                  In ullamcorper magna nunc, non molestie augue feugiat eget.
+                  We happen to have people who believe in what we see
                   Mauris, vitae et, vitae et cursus amet tincidunt feugiat
                   nulla. Senectus maecenas diam risus sodales dictum eu. Eget
                   cursus sit bibendum pulvinar faucibus vitae nam sed. Faucibus
